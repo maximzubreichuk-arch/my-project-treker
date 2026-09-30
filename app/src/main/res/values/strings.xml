@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyProjectTreker</string>
+    <string name="today">Сегодня</string><string name="month">Месяц</string><string name="year">Год</string><string name="settings">Настройки</string>
+    <string name="new_task">Новая задача</string><string name="edit_task">Редактирование</string><string name="save">Сохранить</string><string name="cancel">Отмена</string><string name="edit">Редактировать</string><string name="delete">Удалить</string>
+    <string name="delete_task_title">Удалить задачу?</string><string name="delete_task_message">Вы уверены, что хотите удалить эту задачу?</string><string name="no_tasks">На этот день задач нет</string><string name="retry">Повторить</string>
+    <string name="title">Название</string><string name="description">Описание</string><string name="date">Дата</string><string name="time">Время</string><string name="no_time">Без времени</string><string name="category">Категория</string><string name="icon">Иконка</string><string name="color">Цвет</string>
+    <string name="repeat">Повторение</string><string name="once">Один раз</string><string name="daily">Ежедневно</string><string name="weekly">Еженедельно</string><string name="monthly">Ежемесячно</string><string name="yearly">Ежегодно</string><string name="course">Курс</string>
+    <string name="reminder">Напоминание</string><string name="reminder_off">Без напоминания</string><string name="minutes_before">За %1$d мин.</string><string name="choose_sound">Выбрать звук</string><string name="default_sound">По умолчанию</string>
+    <string name="extra_times">Дополнительные времена</string><string name="add_time">Добавить время</string><string name="remove_time">Убрать время</string><string name="subtasks">Подзадачи</string><string name="add_subtask">Добавить подзадачу</string>
+    <string name="hour">Час</string><string name="day">День</string><string name="choose_day">Выберите день</string><string name="ok">OK</string>
+    <string name="morning">Утро</string><string name="afternoon">День</string><string name="evening">Вечер</string>
+    <string name="appearance">Внешний вид</string><string name="theme">Тема оформления</string><string name="light">Светлая</string><string name="dark">Тёмная</string><string name="system">Системная</string>
+    <string name="language">Язык</string><string name="notifications">Уведомления</string><string name="notification_access">Разрешения уведомлений</string><string name="enabled">Включены</string><string name="disabled">Выключены</string><string name="notification_sound">Звук уведомлений</string><string name="vibration">Вибрация</string><string name="test_notification">Тестовое уведомление</string>
+    <string name="exact_alarm">Точные напоминания</string><string name="open_alarm_settings">Разрешение Android</string><string name="default_reminder">Напоминание по умолчанию</string>
+    <string name="tasks_settings">Задачи</string><string name="first_day_of_week">Первый день недели</string><string name="monday">Понедельник</string><string name="sunday">Воскресенье</string><string name="time_format">Формат времени</string><string name="twenty_four_hour">24 часа</string><string name="twelve_hour">12 часов</string>
+    <string name="pro">MyProjectTreker Pro</string><string name="pro_title">Все возможности без ограничений</string><string name="pro_tasks">Неограниченное количество задач</string><string name="pro_languages">Все языки</string><string name="pro_sounds">Все звуки</string><string name="pro_extra_times">Неограниченные дополнительные времена</string><string name="pro_no_ads">Без рекламы</string><string name="try_pro">Попробовать Pro</string><string name="restore_purchase">Восстановить покупку</string><string name="purchase_not_configured">Создай продукт подписки в Google Play Console, чтобы включить оплату Pro.</string>
+    <string name="about">О приложении</string><string name="support">Поддержка</string><string name="privacy">Политика конфиденциальности</string><string name="version">Версия 1.1.0</string>
+    <string name="sound_default_label">Стандартный</string><string name="sound_soft">Мягкий</string><string name="sound_bell">Колокольчик</string><string name="sound_chime">Chime</string><string name="sound_digital">Digital</string><string name="sound_piano">Пианино</string><string name="sound_nature">Nature</string>
+    <string name="free_limit_tasks">В бесплатной версии максимум 5 задач на день.</string><string name="free_limit_course">В бесплатной версии доступно только одно дополнительное время для курса.</string><string name="pro_required">Эта функция доступна в Pro.</string>
+    <string name="language_free_only">В бесплатной версии доступны Русский и English.</string>
+    <string name="sound_free_only">В бесплатной версии доступен только стандартный звук.</string>
+    <string name="ad_label">Реклама</string>
+    <string name="work">Работа</string><string name="health">Здоровье</string><string name="sport">Спорт</string><string name="shopping">Покупки</string><string name="home">Дом</string><string name="study">Учёба</string><string name="book">Книга</string><string name="task_default">Задача</string>
+    <string name="suggested_icon">Предложенная иконка</string><string name="choose_icon">Выбрать иконку</string>
+    <string name="reminder_past">Напоминание уже в прошлом</string><string name="time_required_for_reminder">Укажите время или уберите напоминание</string><string name="title_required">Укажите название задачи</string>
+
+    <string name="icon_default">Задача</string><string name="icon_work">Работа</string><string name="icon_laptop">Ноутбук</string><string name="icon_briefcase">Портфель</string><string name="icon_shovel">Инструменты</string><string name="icon_health">Здоровье</string><string name="icon_medication">Лекарства</string><string name="icon_sport">Спорт</string><string name="icon_shopping">Покупки</string><string name="icon_home">Дом</string><string name="icon_study">Учёба</string><string name="icon_book">Книга</string><string name="icon_travel">Путешествия</string><string name="icon_food">Еда</string><string name="icon_water">Вода</string><string name="icon_finance">Финансы</string><string name="icon_music">Музыка</string><string name="icon_family">Семья</string>
+    <string name="sound_default">Стандартный</string>
+    <string name="sound_preview">Прослушать</string>
+    <string name="session_ad_message">Реклама</string>
+    <string name="settings_theme_description">Выберите оформление приложения</string>
+    <string name="settings_language_description">Русский и English доступны бесплатно</string>
+    <string name="settings_default_reminder_description">Используется только для новых задач</string>
+    <string name="settings_exact_alarm_description">Нужно для точных напоминаний</string>
+    <string name="settings_ads_note">Реклама появляется только примерно каждый третий новый сеанс</string>
+    <string name="pro_price_unavailable">Цена будет показана после настройки товара в Google Play</string>
+    <string name="buy">Купить</string>
+    <string name="close">Закрыть</string>
+    <string name="restore">Восстановить</string>
+    <string name="pro_monthly">PRO подписка</string>
+    <string name="language_locked">Доступно в Pro</string>
+    <string name="sound_locked">Доступно в Pro</string>
+    <string name="theme_system">Системная</string>
+    <string name="ads_disabled_pro">В Pro рекламы нет</string>
+
+    <string name="minute_short">Мин</string><string name="hour_short">Час</string><string name="day_short">День</string><string name="days_short">дней</string><string name="day_of_month">День месяца</string><string name="repeat_date">Дата повторения: %1$d.%2$d</string><string name="subtask">Подзадача</string>
+</resources>

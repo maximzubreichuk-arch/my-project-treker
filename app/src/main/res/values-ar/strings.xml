@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="today">اليوم</string>
+    <string name="month">الشهر</string>
+    <string name="year">السنة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="new_task">مهمة جديدة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="title">العنوان</string>
+    <string name="description">الوصف</string>
+    <string name="date">التاريخ</string>
+    <string name="time">الوقت</string>
+    <string name="category">الفئة</string>
+    <string name="icon">الأيقونة</string>
+    <string name="color">اللون</string>
+    <string name="repeat">التكرار</string>
+    <string name="once">مرة واحدة</string>
+    <string name="daily">كل يوم</string>
+    <string name="weekly">أيام الأسبوع</string>
+    <string name="monthly">كل شهر</string>
+    <string name="yearly">كل عام</string>
+    <string name="course">دورة</string>
+    <string name="reminder">تذكير</string>
+    <string name="extra_times">أوقات إضافية</string>
+    <string name="add_time">إضافة وقت</string>
+    <string name="subtasks">المهام الفرعية</string>
+    <string name="add_subtask">إضافة مهمة فرعية</string>
+    <string name="appearance">المظهر</string>
+    <string name="theme">السمة</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="system">النظام</string>
+    <string name="language">اللغة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="vibration">اهتزاز</string>
+    <string name="pro">RoundPilot Pro</string>
+    <string name="pro_tasks">مهام غير محدودة</string>
+    <string name="pro_no_ads">بدون إعلانات</string>
+    <string name="try_pro">جرّب Pro</string>
+    <string name="about">حول التطبيق</string>
+    <string name="support">الدعم</string>
+    <string name="version">الإصدار 1.0</string>
+<string name="edit_task">Editing</string><string name="no_time">No time</string><string name="reminder_off">No reminder</string><string name="notification_sound">Notification sound</string><string name="exact_alarm">Exact reminders</string><string name="default_reminder">Default reminder</string><string name="tasks_settings">Tasks</string><string name="first_day_of_week">First day of week</string><string name="time_format">Time format</string><string name="pro_title">All features without limits</string><string name="pro_languages">All languages</string><string name="pro_sounds">All sounds</string><string name="pro_extra_times">Unlimited additional times</string><string name="restore_purchase">Restore purchase</string><string name="work">Work</string><string name="health">Health</string><string name="sport">Sport</string><string name="shopping">Shopping</string><string name="home">Home</string><string name="study">Study</string><string name="book">Book</string><string name="task_default">Task</string><string name="app_name">MyProjectTreker</string><string name="delete_task_title">Delete task?</string><string name="delete_task_message">Are you sure you want to delete this task?</string><string name="no_tasks">No tasks for this day</string><string name="retry">Retry</string><string name="minutes_before">%1$d min before</string><string name="choose_sound">Choose sound</string><string name="default_sound">Default</string><string name="remove_time">Remove time</string><string name="hour">Hour</string><string name="day">Day</string><string name="choose_day">Choose day</string><string name="ok">OK</string><string name="morning">Morning</string><string name="afternoon">Day</string><string name="evening">Evening</string><string name="test_notification">Test notification</string><string name="open_alarm_settings">Android permission</string><string name="monday">Monday</string><string name="sunday">Sunday</string><string name="twenty_four_hour">24-hour</string><string name="twelve_hour">12-hour</string><string name="purchase_not_configured">Create the subscription product in Google Play Console to enable Pro payments.</string><string name="privacy">Privacy policy</string><string name="sound_default_label">Default</string><string name="sound_soft">Soft</string><string name="sound_bell">Bell</string><string name="sound_chime">Chime</string><string name="sound_digital">Digital</string><string name="sound_piano">Piano</string><string name="sound_nature">Nature</string><string name="free_limit_tasks">Free version: maximum 5 tasks per day.</string><string name="free_limit_course">Free version: only one additional time is available for a course.</string><string name="pro_required">This feature is available in Pro.</string><string name="language_free_only">Free version includes Russian and English.</string><string name="sound_free_only">Free version includes only the default sound.</string><string name="ad_label">Advertisement</string><string name="suggested_icon">Suggested icon</string><string name="choose_icon">Choose icon</string><string name="reminder_past">Reminder time is already in the past</string><string name="time_required_for_reminder">Set a task time or turn off the reminder</string><string name="title_required">Enter a task name</string><string name="icon_default">Task</string><string name="icon_work">Work</string><string name="icon_laptop">Laptop</string><string name="icon_briefcase">Briefcase</string><string name="icon_shovel">Tools</string><string name="icon_health">Health</string><string name="icon_medication">Medication</string><string name="icon_sport">Sport</string><string name="icon_shopping">Shopping</string><string name="icon_home">Home</string><string name="icon_study">Study</string><string name="icon_book">Book</string><string name="icon_travel">Travel</string><string name="icon_food">Food</string><string name="icon_water">Water</string><string name="icon_finance">Finance</string><string name="icon_music">Music</string><string name="icon_family">Family</string><string name="sound_default">Default</string><string name="sound_preview">Preview</string><string name="session_ad_message">Advertisement</string><string name="settings_theme_description">Choose app appearance</string><string name="settings_language_description">Russian and English are available for free</string><string name="settings_default_reminder_description">Used only for new tasks</string><string name="settings_exact_alarm_description">Required for precise reminders</string><string name="settings_ads_note">Ads appear only about every third new session</string><string name="pro_price_unavailable">Price appears after the Play Console product is configured</string><string name="buy">Buy</string><string name="close">Close</string><string name="restore">Restore</string><string name="pro_monthly">PRO subscription</string><string name="language_locked">Available in Pro</string><string name="sound_locked">Available in Pro</string><string name="theme_system">System</string><string name="ads_disabled_pro">No ads in Pro</string><string name="minute_short">Min</string><string name="hour_short">Hour</string><string name="day_short">Day</string><string name="days_short">days</string><string name="day_of_month">Day of month</string><string name="repeat_date">Repeat date: %1$d.%2$d</string><string name="subtask">Subtask</string></resources>
